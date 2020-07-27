@@ -1,2 +1,5 @@
-idea版maven Web项目，博客参考文档网址链接：
+idea版maven Web项目，建议配合apache-tomcat-8.5.40 启动运行，
+tomcat7启动有bug。。去apache官网重新下载一个tomcat8及以上版本使用。
+
+博客参考文档网址链接：
     https://blog.csdn.net/czc9309/article/details/80304074
